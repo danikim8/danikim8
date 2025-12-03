@@ -46,6 +46,9 @@
 ## 🏅 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=danikim8&show_icons=true&theme=radical" height="180">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=danikim8&layout=compact&theme=radical" height="180">
+
+[![Dani's GitHub stats](https://github-readme-stats.vercel.app/api?username=danikim8&show_icons=true&theme=radical)](https://github.com/danikim8)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danikim8&layout=compact&theme=radical)](https://github.com/danikim8)
+
 </div>
