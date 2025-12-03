@@ -41,14 +41,19 @@
   <img src="https://img.shields.io/badge/Gmail-EA4335?style=plastic&logo=Gmail&logoColor=white">
 </a>
 
-<br>
+<br><br>
 
 ## 🏅 GitHub Stats
 
 <div align="center">
 
-[![Dani's GitHub stats](https://github-readme-stats.vercel.app/api?username=danikim8&show_icons=true&theme=radical)](https://github.com/danikim8)
+<!-- Streak Stats -->
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=danikim8&theme=radical" height="180" />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danikim8&layout=compact&theme=radical)](https://github.com/danikim8)
+<!-- Trophy -->
+<img src="https://github-profile-trophy.vercel.app/?username=danikim8&theme=radical&row=1&column=6" />
+
+<!-- Activity Graph -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=danikim8&theme=radical&hide_border=true" />
 
 </div>
